@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="caluladora_financeira_online">Caluladora Financeira Online</string>
+    <string name="desenvolvido_por_s_vio_rodrigues">Desenvolvido por Sávio Rodrigues</string>
+    <string name="c_lculo_de_juros_simples">Cálculo de Juros Simples</string>
+    <string name="c_lculo_de_juros_compostos">Cálculo de Juros Compostos</string>
+    <string name="c_lculo_de_desconto_simples">Cálculo De Desconto Simples</string>
+    <string name="title_activity_juros_simples">JurosSimples</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_calculo_juros_simples">Cálculo Juros Simples</string>
+    <string name="title_activity_calculo_juros_composto">Calculo Juros Composto</string>
+    <string name="title_activity_desconto_simples">Desconto Simples</string>
+    <string name="sem_resultado_recente">Sem resultado recente</string>
+    <string name="sem_resultado_recente1">Sem resultado recente</string>
+    <string name="sem_resultado_recente2">Sem resultado recente</string>
+</resources>
